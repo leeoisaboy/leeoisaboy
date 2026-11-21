@@ -80,7 +80,7 @@ flowchart LR
 
 ## ✍️ 最新周记 · Weekly Notes
 
-> 公众号 **「一个AI产品经理的周记」** 同步更新，由 [WeMD-SKILLS](https://github.com/leeoisaboy/WeMD-SKILLS) 在发文后自动归档最近 5 期。
+> 公众号 **「一个AI产品经理的周记」** 同步更新，由 [WeMD-SKILLS](https://github.com/leeoisaboy/WeMD-SKILLS) 在发文后自动归档全部周记（首屏展示最新 5 期，往期自动折叠收纳）。
 
 <!-- WEEKLY_NOTES_START -->
 - `2026-11-21` | [AI产品经理实习周记｜先在局部打穿闭环，再顺着利益链条推开全局](https://mp.weixin.qq.com/s/aTnQgaOekvqOIn9bHt2y-A) — 先在单点场景跑通真实闭环，再沿业务与协作利益链条逐步推开全局。
