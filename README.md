@@ -3,8 +3,8 @@
 <h1>Hi, I'm leeoisaboy 👋</h1>
 
 <p>
-  <strong>AI 产品经理 & 多模态语音算法工程师</strong><br />
-  <sub>AI Product Manager & Multimodal Speech Engineer · White-Box Evaluation · Speech & VLM Fine-Tuning · AI Agent Skills</sub>
+  <strong>AI 产品经理 · AI Product Builder（多模态与语音方向）</strong><br />
+  <sub>AI Product Manager & Builder (Multimodal & Speech) · White-Box Evaluation · Post-Training · AI Agent Workflows</sub>
 </p>
 
 <p>
