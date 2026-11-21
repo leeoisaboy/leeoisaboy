@@ -83,11 +83,30 @@ flowchart LR
 > 公众号 **「一个AI产品经理的周记」** 同步更新，由 [WeMD-SKILLS](https://github.com/leeoisaboy/WeMD-SKILLS) 在发文后自动归档全部周记（首屏展示最新 5 期，往期自动折叠收纳）。
 
 <!-- WEEKLY_NOTES_START -->
-- `2026-11-21` | [AI产品经理实习周记｜先在局部打穿闭环，再顺着利益链条推开全局](https://mp.weixin.qq.com/s/aTnQgaOekvqOIn9bHt2y-A) — 先在单点场景跑通真实闭环，再沿业务与协作利益链条逐步推开全局。
+- `2026-11-18` | [AI产品经理实习周记｜先在局部打穿闭环，再顺着利益链条推开全局](https://mp.weixin.qq.com/s/aTnQgaOekvqOIn9bHt2y-A)
 - `2026-11-14` | [AI产品经理实习周记｜怎么思考下一代解决方案和产品形态](https://mp.weixin.qq.com/s/wH5EdQVfIrtgUE7hZz00JA) — 先画完整服务链，再把存量资产放回去，用真实断点倒推下一代硬件形态。
 - `2026-11-10` | [AI产品经理实习周记 | 硬件开发是层层递归而环环相扣的导演艺术——以《盗梦空间》为例](https://mp.weixin.qq.com/s/SO-x652iHHrA0Ma3c7Q00g) — 把半年硬件开发拆成五幕，用三次全员同步的决策制定点控制多层协作。
 - `2026-11-06` | [AI产品经理实习周记｜一枚语音徽章背后的供应商尽调](https://mp.weixin.qq.com/s/xomx82ugsJNUr1fV9lTP8A) — 在签约付款前核验供应商资质、能力和交付风险，判断对方能否持续交付。
 - `2026-11-05` | [AI产品经理实习周记｜一台智能音箱的硬件开发流程](https://mp.weixin.qq.com/s/gSKo73XbClmJJdAE68nRoQ) — 从一台智能音箱的制造流程看硬件开发的关键环节、角色分工与协作边界。
+
+<details>
+<summary>📚 展开查看全部往期周记（共 13 篇）</summary>
+
+- `2026-11-01` | [AI产品经理实习周记｜我的技术预研过程产物介绍（一）——开源项目AudioLLM-Latent-KWS](https://mp.weixin.qq.com/s/gjHPlGDkiORYaCE6Q-6HxQ)
+- `2026-10-24` | [AI产品经理实习周记：市场洞察给出理由，商业闭环给出结构，产品形态给出界面](https://mp.weixin.qq.com/s/9Az9F-mmFFuJWpOwkzb9EA)
+- `2026-10-23` | [AI产品经理实习周记｜技术变强了，用户没有多一个购买理由](https://mp.weixin.qq.com/s/4pu0YXsNnzFrC__4hJxKfA)
+- `2026-10-18` | [AI产品经理实习周记：产品不能停在从零到一，增长和爆款都藏在后面的跟进里](https://mp.weixin.qq.com/s/tWWoS8UkzgQGa0r-Ng554A)
+- `2026-10-11` | [AI产品经理实习周记：IPD的第一课，为什么IBM和华为都要先把流程定死，再谈灵活](https://mp.weixin.qq.com/s/atfQtf47E-PLzlERu0wsjw) — 这周我开始读IPD的教材，想把这套被IBM和华为先后验证过的产品研发体系理清楚。
+- `2026-10-02` | [AI产品经理实习周记：记录我用多模态插件完成3D建模交付的过程](https://mp.weixin.qq.com/s/uLz3UF_nKi8fQN4N8euNfA)
+- `2026-09-27` | [AI产品经理实习周记：从云栖回来，我重新想了想 Agent 与人的边界](https://mp.weixin.qq.com/s/uc2CRWe2rMfqATT6RX8YUg)
+- `2026-09-20` | [AI产品经理实习周记：外因是条件，内因是根据](https://mp.weixin.qq.com/s/cNd-xDaSeyJBhmVr_PCm3A)
+- `2026-09-19` | [AI产品经理实习周记：战略上的一个判断，胜过战役上的一百个补丁](https://mp.weixin.qq.com/s/TAE-7L7M7aJf8qHygm_mtQ)
+- `2026-09-13` | [AI产品经理实习周记：一次研究思路的掉头之三，抽车，将军，战略撤退换来战略主动](https://mp.weixin.qq.com/s/rtsNhfxIM-ap-0Eitd3JGQ)
+- `2026-09-12` | [AI产品经理实习周记：一次研究思路的掉头之二，借别人的鲁棒性解自己的数据荒](https://mp.weixin.qq.com/s/wxDITBoqfnpIO6hjvZ9y1Q)
+- `2026-09-11` | [AI产品经理实习周记：一次研究思路的掉头，让我明白战略决策远比战术选型更重要](https://mp.weixin.qq.com/s/uAhShCnavAb6BhFySU6ptQ)
+- `2026-09-04` | [AI产品经理实习周记：五条路都走不通，我换了个更省事的目标](https://mp.weixin.qq.com/s/_YS-rFJUGybKpqJP2armRw)
+
+</details>
 <!-- WEEKLY_NOTES_END -->
 
 ---
