@@ -90,7 +90,7 @@ flowchart LR
 - `2026-11-05` | [AI产品经理实习周记｜一台智能音箱的硬件开发流程](https://mp.weixin.qq.com/s/gSKo73XbClmJJdAE68nRoQ) — 从一台智能音箱的制造流程看硬件开发的关键环节、角色分工与协作边界。
 
 <details>
-<summary>📚 展开查看全部往期周记（共 13 篇）</summary>
+<summary>📚 展开查看全部往期周记（共 30 篇）</summary>
 
 - `2026-11-01` | [AI产品经理实习周记｜我的技术预研过程产物介绍（一）——开源项目AudioLLM-Latent-KWS](https://mp.weixin.qq.com/s/gjHPlGDkiORYaCE6Q-6HxQ)
 - `2026-10-24` | [AI产品经理实习周记：市场洞察给出理由，商业闭环给出结构，产品形态给出界面](https://mp.weixin.qq.com/s/9Az9F-mmFFuJWpOwkzb9EA)
@@ -105,6 +105,23 @@ flowchart LR
 - `2026-09-12` | [AI产品经理实习周记：一次研究思路的掉头之二，借别人的鲁棒性解自己的数据荒](https://mp.weixin.qq.com/s/wxDITBoqfnpIO6hjvZ9y1Q)
 - `2026-09-11` | [AI产品经理实习周记：一次研究思路的掉头，让我明白战略决策远比战术选型更重要](https://mp.weixin.qq.com/s/uAhShCnavAb6BhFySU6ptQ)
 - `2026-09-04` | [AI产品经理实习周记：五条路都走不通，我换了个更省事的目标](https://mp.weixin.qq.com/s/_YS-rFJUGybKpqJP2armRw)
+- `2026-09-03` | [AI产品经理实习周记：AI为什么在合成音频里很准，一到真实世界就失灵](https://mp.weixin.qq.com/s/OHRqdAeXZRNFTdi0U03itA)
+- `2026-09-02` | [AI产品经理实习周记：训练进程无声倒下，先找外因，再怀疑自己](https://mp.weixin.qq.com/s/hmte17kVR6XbSBXJFhXyfw)
+- `2026-08-30` | [AI产品经理实习周记：一次语音微调工程的排雷复盘](https://mp.weixin.qq.com/s/o0XdilU7HaD44ybEQvxIbg)
+- `2026-08-29` | [AI产品经理实习周记：商务洽谈，谈的是共同利益，也是利益博弈](https://mp.weixin.qq.com/s/ERtKV2xd9O9j0nWa_Zf1Zg)
+- `2026-08-28` | [AI产品经理实习周记：语音微调有两个上限，一个决定听得清，一个决定写得对](https://mp.weixin.qq.com/s/ZVxRw_2Cz0ShNRA1gSRJ4A)
+- `2026-08-21` | [AI产品经理实习周记：模型微调没有万能配方——聊聊语音模型微调的特殊性和普遍性](https://mp.weixin.qq.com/s/1uBymTDPv-Aex52F2IWg7A)
+- `2026-08-20` | [AI产品经理实习周记：Coding Agent跑得飞快，谁来发现错误？——聊聊产品经理为什么要读源码](https://mp.weixin.qq.com/s/jb2O45FOadfddLPMkQNvOg)
+- `2026-08-19` | [AI产品经理实习周记：产品经理不写一行代码，那靠什么吃饭？——聊聊PM的三种核心思维](https://mp.weixin.qq.com/s/I2LlhIZ8aBhJBVt_Emj-IA)
+- `2026-08-16` | [AI产品经理实习周记：开源不一定是"做慈善"——从一个小智音箱看AI时代的生态战](https://mp.weixin.qq.com/s/PPkDL1C8G5lmU8jImrnrcA)
+- `2026-08-15` | [AI产品经理实习周记：Agent再强，也替代不了专家的“技术直觉”](https://mp.weixin.qq.com/s/TlJQjzfKIxockwcNnjbuyg)
+- `2026-08-12` | [AI产品经理实习周记：定义产品边界，从"手术刀级别"的评测理解开始](https://mp.weixin.qq.com/s/RsJdlKDxJcaf2ocxh65DaA)
+- `2026-08-09` | [AI产品经理实习周记：996之后，我如何"偷"出时间经营自己？](https://mp.weixin.qq.com/s/8L7rfG-CEk0s7C4yqNpVJg)
+- `2026-08-08` | [AI产品经理实习周记：当Coding Agent能自动训练模型时，产品经理的价值在哪里？](https://mp.weixin.qq.com/s/3UfgYcl-X0jx90rXjwurGg)
+- `2026-08-07` | [AI产品经理实习周记：从实验室到企业，产品经理的"稳扎稳打"之道](https://mp.weixin.qq.com/s/DNUbAUAFmijEHE7IrEkJ_Q)
+- `2026-07-30` | [AI产品经理实习周记：调研、矛盾、系统观](https://mp.weixin.qq.com/s/rZTzxugVM_B6p5lHxfPb_w)
+- `2026-07-28` | [AI产品经理实习周记：实习生如何听懂任务、看懂需求、并找到自己的价值锚点](https://mp.weixin.qq.com/s/NyLzIoWTzfLAaRlh52Lizw) — AI产品沉思录
+- `2026-07-26` | [AI产品经理实习周记：在“经验为王”的时代，用Harness式工作法做AI产品](https://mp.weixin.qq.com/s/VSjNOeboMSaHsCw7THu0wQ) — AI产品实习沉思录
 
 </details>
 <!-- WEEKLY_NOTES_END -->
