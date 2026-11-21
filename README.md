@@ -15,6 +15,12 @@
 </p>
 
 <p>
+  <a href="https://github.com/leeoisaboy/cosyvoice-lora-finetune-framework"><img alt="CosyVoice LoRA Framework Stars" src="https://img.shields.io/github/stars/leeoisaboy/cosyvoice-lora-finetune-framework?style=flat-square&logo=github&label=CosyVoice%20LoRA%20Framework&color=f59e0b" /></a>
+  <a href="https://github.com/leeoisaboy/lora-cosyvoice123-chanting"><img alt="CosyVoice 1/2/3 Chanting Stars" src="https://img.shields.io/github/stars/leeoisaboy/lora-cosyvoice123-chanting?style=flat-square&logo=github&label=CosyVoice%201%2F2%2F3%20Chanting&color=f59e0b" /></a>
+  <a href="https://github.com/leeoisaboy/paleomindocr-evahan2026"><img alt="EvaHan 2026 Ancient OCR Stars" src="https://img.shields.io/github/stars/leeoisaboy/paleomindocr-evahan2026?style=flat-square&logo=github&label=EvaHan%202026%20Ancient%20OCR&color=f59e0b" /></a>
+</p>
+
+<p>
   <a href="https://github.com/leeoisaboy?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/leeoisaboy?style=flat-square&label=Followers&color=1f2937" /></a>
   <a href="https://www.bilibili.com/video/BV1Sti7B9ENN/"><img alt="Bilibili Documentary" src="https://img.shields.io/badge/Bilibili-CosyVoice%20%E8%B0%83%E8%AF%95%E7%BA%AA%E5%AE%9E-fb7299?style=flat-square&logo=bilibili&logoColor=white" /></a>
   <img alt="WeChat Official Account" src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E4%B8%80%E4%B8%AAAI%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E7%9A%84%E5%91%A8%E8%AE%B0-07c160?style=flat-square&logo=wechat&logoColor=white" />
