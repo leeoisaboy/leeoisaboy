@@ -84,6 +84,10 @@ flowchart LR
 
 <!-- WEEKLY_NOTES_START -->
 - `2026-11-21` | [AI产品经理实习周记｜先在局部打穿闭环，再顺着利益链条推开全局](https://mp.weixin.qq.com/s/aTnQgaOekvqOIn9bHt2y-A) — 先在单点场景跑通真实闭环，再沿业务与协作利益链条逐步推开全局。
+- `2026-11-14` | [AI产品经理实习周记｜怎么思考下一代解决方案和产品形态](https://mp.weixin.qq.com/s/wH5EdQVfIrtgUE7hZz00JA) — 先画完整服务链，再把存量资产放回去，用真实断点倒推下一代硬件形态。
+- `2026-11-10` | [AI产品经理实习周记 | 硬件开发是层层递归而环环相扣的导演艺术——以《盗梦空间》为例](https://mp.weixin.qq.com/s/SO-x652iHHrA0Ma3c7Q00g) — 把半年硬件开发拆成五幕，用三次全员同步的决策制定点控制多层协作。
+- `2026-11-06` | [AI产品经理实习周记｜一枚语音徽章背后的供应商尽调](https://mp.weixin.qq.com/s/xomx82ugsJNUr1fV9lTP8A) — 在签约付款前核验供应商资质、能力和交付风险，判断对方能否持续交付。
+- `2026-11-05` | [AI产品经理实习周记｜一台智能音箱的硬件开发流程](https://mp.weixin.qq.com/s/gSKo73XbClmJJdAE68nRoQ) — 从一台智能音箱的制造流程看硬件开发的关键环节、角色分工与协作边界。
 <!-- WEEKLY_NOTES_END -->
 
 ---
