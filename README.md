@@ -83,15 +83,16 @@ flowchart LR
 > 公众号 **「一个AI产品经理的周记」** 同步更新，由 [WeMD-SKILLS](https://github.com/leeoisaboy/WeMD-SKILLS) 在发文后自动归档全部周记（首屏展示最新 5 期，往期自动折叠收纳）。
 
 <!-- WEEKLY_NOTES_START -->
+- `2026-11-23` | [AI产品经理实习周记｜管好复杂业务与产品周期，团队才能“如身使臂，如臂使指”](https://mp.weixin.qq.com/s/JSUg9yLF2i0U5WDHUx0_ow) — 软硬一体复杂项目不能只看文档表象，要在业务上划清边界、在开发上解耦软硬节奏、在交付上定标准清噪音、在迭代中隔离基线并校准产品定位。
 - `2026-11-22` | [AI产品经理实习周记｜管好政府资金项目，技术只是底牌，财务、主体和证据链才是大头](https://mp.weixin.qq.com/s/4xb8gpw7jaB6x6H20U0tfw) — 政府专项资金项目从申报起就按验收倒推，决定结项成败的往往是财务合规、多方主体协调与全流程证据链管理。
 - `2026-11-18` | [AI产品经理实习周记｜先在局部打穿闭环，再顺着利益链条推开全局](https://mp.weixin.qq.com/s/aTnQgaOekvqOIn9bHt2y-A)
 - `2026-11-14` | [AI产品经理实习周记｜怎么思考下一代解决方案和产品形态](https://mp.weixin.qq.com/s/wH5EdQVfIrtgUE7hZz00JA) — 先画完整服务链，再把存量资产放回去，用真实断点倒推下一代硬件形态。
 - `2026-11-10` | [AI产品经理实习周记 | 硬件开发是层层递归而环环相扣的导演艺术——以《盗梦空间》为例](https://mp.weixin.qq.com/s/SO-x652iHHrA0Ma3c7Q00g) — 把半年硬件开发拆成五幕，用三次全员同步的决策制定点控制多层协作。
-- `2026-11-06` | [AI产品经理实习周记｜一枚语音徽章背后的供应商尽调](https://mp.weixin.qq.com/s/xomx82ugsJNUr1fV9lTP8A) — 在签约付款前核验供应商资质、能力和交付风险，判断对方能否持续交付。
 
 <details>
-<summary>📚 展开查看全部往期周记（共 31 篇）</summary>
+<summary>📚 展开查看全部往期周记（共 32 篇）</summary>
 
+- `2026-11-06` | [AI产品经理实习周记｜一枚语音徽章背后的供应商尽调](https://mp.weixin.qq.com/s/xomx82ugsJNUr1fV9lTP8A) — 在签约付款前核验供应商资质、能力和交付风险，判断对方能否持续交付。
 - `2026-11-05` | [AI产品经理实习周记｜一台智能音箱的硬件开发流程](https://mp.weixin.qq.com/s/gSKo73XbClmJJdAE68nRoQ) — 从一台智能音箱的制造流程看硬件开发的关键环节、角色分工与协作边界。
 - `2026-11-01` | [AI产品经理实习周记｜我的技术预研过程产物介绍（一）——开源项目AudioLLM-Latent-KWS](https://mp.weixin.qq.com/s/gjHPlGDkiORYaCE6Q-6HxQ)
 - `2026-10-24` | [AI产品经理实习周记：市场洞察给出理由，商业闭环给出结构，产品形态给出界面](https://mp.weixin.qq.com/s/9Az9F-mmFFuJWpOwkzb9EA)
